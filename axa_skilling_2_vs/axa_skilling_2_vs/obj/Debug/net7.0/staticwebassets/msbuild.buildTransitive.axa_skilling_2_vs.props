@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\axa_skilling_2_vs.props" />
+</Project>

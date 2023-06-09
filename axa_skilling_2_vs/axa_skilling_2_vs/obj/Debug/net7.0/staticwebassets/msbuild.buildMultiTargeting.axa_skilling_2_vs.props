@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\axa_skilling_2_vs.props" />
+</Project>
